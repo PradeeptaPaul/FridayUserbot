@@ -27,7 +27,7 @@ async def amireallyalive(alive):
                      "`MADE USING:` 🐍PYTHON\n"
                      f"`MY BOSS`: {DEFAULTUSER}☣️\n\n"
                      "AT YOUR SERVICE ,MY BOSS\n\n"
-                     "`MAINTAINER: TONY STARK...aka (ROBERT DOWNEY.Jr)✅ \n\n"
+                     "`MAINTAINER 📡: TONY STARK...aka (ROBERT DOWNEY.Jr)✅ \n\n"
                      )
     
                      
