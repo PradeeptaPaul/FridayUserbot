@@ -16,7 +16,8 @@ async def amireallyalive(alive):
     await alive.edit("**MY STATUS** \n`FRIDAY IS:` **✅ Alive**\n\n"
                      "`🌹TELETHON VERSION:` **6.0.9**✅\n`🐍Python:` **3.7.4**✅\n"
                      "`DATABASE STATUS:` **WORKING FINE 🙂**\n\n`SYSTEM is 🔥!, NO malacious activity detected✅\n`"
-                     " 🔘🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔘/n"
+                     " `🔘🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔘\n"
+               
                      " CURRECT BOT LOCATION:**NEW YORK,UNITED STATES**\n"
                      "`🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻\n"
                      "`IP:` **3.82.66.232**\n"
